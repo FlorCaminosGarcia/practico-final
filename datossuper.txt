@@ -1,0 +1,4 @@
+Aquí se proporcionarán datos pertenecientes a la lista del supermercado
+  _Tomates
+  _Huevos
+  _Harina
